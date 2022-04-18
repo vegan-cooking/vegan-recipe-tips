@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Vegan Recipe Tips
 
-You can use the [editor on GitHub](https://github.com/raymondberg/vegan-recipe-tips/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Best Last-Minute Pan-Asian Vegan
+_By: Charles X. Cougat (1 minute read)_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prep Time: 5 minutes
+Cook Time: 30 minutes
 
-### Markdown
+We've all been there. It's been "a week". You're wondering what to eat and you're so over
+leftovers. You want something fresh and delicious, but you're tired of boring old takeout.
+And who can afford takeout every night?!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you feel that, then you should try this amazing recipe. Prep time is 5 minutes, and within
+30 minutes you'll be eating a delicious. Best part? Minimal cleanup.
 
-```markdown
-Syntax highlighted code block
+#### Ingredients
 
-# Header 1
-## Header 2
-### Header 3
+1. Phone / Computer or other device
+2. A friend named Ray
 
-- Bulleted
-- List
+#### Steps
 
-1. Numbered
-2. List
+Step 1: Text your friend Ray `Hey Ray, can you pick up some urban vegan?`
 
-**Bold** and _Italic_ and `Code` text
+This can be over SMS, Slack, Signal or even email. Get creative! Incorporate your favorite medium
+to really make this dish your own.
 
-[Link](url) and ![Image](src)
-```
+Step 2: Wait 30 minutes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This part is arguably the hardest. I personally enjoy reading a nice book, or looking happily out
+a window while I play soft music and swirl a glass of wine.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raymondberg/vegan-recipe-tips/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+That's all there is to it! We know this recipe doesn't work for everyone, but if you've got
+the ingredients you should try it out soon. You won't regret it.
